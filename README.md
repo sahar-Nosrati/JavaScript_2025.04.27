@@ -1,1 +1,3 @@
-# JavaScript_2025.04.27
+# Study JavaScript
+  - study this key word, bind, call ,aplly methods, arrow function classes
+  - continue study modules
